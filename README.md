@@ -1,0 +1,2 @@
+# codewars
+solved codewars katas
